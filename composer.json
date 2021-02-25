@@ -57,5 +57,8 @@
             "allow-contrib": false,
             "require": "5.2.*"
         }
+    },
+    "require-dev": {
+        "symfony/web-server-bundle": "^4.4.2"
     }
 }
